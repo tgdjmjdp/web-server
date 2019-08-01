@@ -24,5 +24,4 @@ app.get('/about', (req, res) => {
 
 app.listen(port, () => {
     console.log(port);
-    
 });
